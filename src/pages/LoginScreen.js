@@ -43,7 +43,7 @@ export function LoginScreen() {
             activeOpacity={0.6}
             style={styles.loginButton}
           >
-            <Text style={styles.loginButtonText}>Login</Text>
+            <Text style={styles.loginButtonText}>Fazer login</Text>
           </TouchableOpacity>
           <TouchableOpacity onPress={() => Alert.alert("Só lamento !!!")}>
             <Text style={styles.forgetPassword}>Esqueceu a senha ?</Text>
