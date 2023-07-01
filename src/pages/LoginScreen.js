@@ -18,7 +18,7 @@ export function LoginScreen() {
         </View>
         <View>
           <Text style={styles.information}>
-            Realize seu login e tenha acesso às funcionalidades do app.
+           Esta versão está desatualizada.
           </Text>
         </View>
         <View style={styles.inputs}>
